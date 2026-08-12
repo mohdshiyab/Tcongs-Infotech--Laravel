@@ -515,8 +515,8 @@ Computer Science Engineering Graduate
 
 ### Profiles
 
-* GitHub: [Add GitHub profile URL]
-* LinkedIn: [Add LinkedIn profile URL]
+* GitHub: [https://github.com/mohdshiyab/Tcongs-Infotech--Laravel]
+* LinkedIn: [https://www.linkedin.com/in/mohammad-shiyabuddeen-4b183724b/]
 
 ---
 
